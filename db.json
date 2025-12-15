@@ -1,46 +1,74 @@
 {
-    "products": [
+    "users": [
         {
             "id": 1,
-            "name": "floor",
-            "description": "confetti floor",
-            "price": 500,
-            "photo_url": "assets/Pizzeria Simulator_W700_H565_F21_T_0X6A67BCC6A1ABABBE.png"
+            "name": "Andriy",
+            "sirname": "Moskalenko",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
+            "balance": 1500
         },
         {
             "id": 2,
-            "name": "stage",
-            "description": "Brand new stage",
-            "price": 750,
-            "photo_url": "assets/Pizzeria Simulator_W666_H418_F21_T_0X59840BEA83F12436.png"
+            "name": "Yuriy",
+            "sirname": "Berezovchuk",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat1.png",
+            "balance": 5790
         },
         {
             "id": 3,
-            "name": "basketball",
-            "description": "minigame",
-            "price": 300,
-            "photo_url": "assets/Pizzeria Simulator_W592_H488_F21_T_0X1E69ECA01E99A531.png"
-        },
+            "name": "Cat",
+            "sirname": "Egyptian",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat2.jpg",
+            "balance": 0
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "LED display",
+            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+            "price": 92,
+            "author_id": 1,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+             },
+        {
+            "id": 2,
+            "name": "Arduino UNO",
+            "description": "Brand new and high quality.",
+            "price": 180,
+            "author_id": 3,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+             },
+        {
+            "id": 3,
+            "name": "ESP8266 5V",
+            "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+              },
         {
             "id": 4,
-            "name": "midnight motorist",
-            "description": "minigame",
-            "price": 450,
-            "photo_url": "assets/Pizzeria Simulator_W561_H363_F21_T_0XECB534533471A0E.png"
-        },
+            "name": "RGB",
+            "description": "Can make color party.",
+            "price": 92,
+            "author_id": 1,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+             },
         {
             "id": 5,
-            "name": "pick a duck",
-            "description": "minigame",
-            "price": 200,
-            "photo_url": "assets/Pizzeria Simulator_W511_H220_F21_T_0X10524C350A014FFC.png"
-        },
+            "name": "Resistor 10k Ohm",
+            "description": "Can resist the voltage. Super cool.",
+            "price": 180,
+            "author_id": 3,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+             },
         {
             "id": 6,
-            "name": "clown",
-            "description": "Epic.",
+            "name": "7-Segment Display",
+             "description": "Epic.",
             "price": 300,
-            "photo_url": "assets/Pizzeria Simulator_W444_H611_F21_T_0X3322D42D5C9C0EF5.png"
-        }
+            "author_id": 2,
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+            }
     ]
 }
