@@ -28,60 +28,44 @@
             "name": "Pizza1",
             "description": "ingridients",
             "price": 100,
-            "author_id": 1,
-            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/8373ecbc-efbf-48f2-b586-c3eb9b8b7c1a/330_220.webp"
+            "author_id": 2,
+            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi_pl/catalog/8502825d-e1f5-4609-b675-370512ed9911/mushroom-and-ham-pizza.webp"
              },
         {
             "id": 2,
             "name": "Pizza2",
             "description": "ingridients",
             "price": 100,
-            "author_id": 1,
-            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/4a018265-2d07-4eec-aadc-3738d4975015/330_220.webp"
+            "author_id": 3,
+            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/e8188894-aa75-40eb-8ba6-adc68e3379db/400.webp"
              },
         {
             "id": 3,
             "name": "Pizza3",
             "description": "ingridients",
             "price": 100,
-            "author_id": 2,
-            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi_pl/catalog/8502825d-e1f5-4609-b675-370512ed9911/mushroom-and-ham-pizza.webp"
+            "author_id": 1,
+            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/d854c52f-b9b9-426e-ad9c-c5e9eb07295c/400.webp"
              },
         {
             "id": 4,
             "name": "Pizza4",
             "description": "ingridients",
             "price": 100,
-            "author_id": 3,
-            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/e8188894-aa75-40eb-8ba6-adc68e3379db/400.webp"
+            "author_id": 2,
+            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/b40fa20e-8e4f-430e-b9ab-e5db7a8b168c/400.webp"
              },
         {
             "id": 5,
             "name": "Pizza5",
             "description": "ingridients",
             "price": 100,
-            "author_id": 1,
-            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/d854c52f-b9b9-426e-ad9c-c5e9eb07295c/400.webp"
-             },
-        {
-            "id": 6,
-            "name": "Pizza6",
-            "description": "ingridients",
-            "price": 100,
-            "author_id": 2,
-            "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/b40fa20e-8e4f-430e-b9ab-e5db7a8b168c/400.webp"
-             },
-        {
-            "id": 7,
-            "name": "Pizza7",
-            "description": "ingridients",
-            "price": 100,
             "author_id": 3,
             "photo_url": "https://d3mvlk4okvy3v4.cloudfront.net/sushi/catalog/80a9e17b-b1c1-4a13-8a0b-254130b16f1c/m2x.webp"
              },
         {
-            "id": 8,
-            "name": "Pizza8",
+            "id": 6,
+            "name": "Pizza6",
             "description": "ingridients",
             "price": 100,
             "author_id": 1,
