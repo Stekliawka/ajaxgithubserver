@@ -25,50 +25,67 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-            "price": 92,
+            "name": "Pizza1",
+            "description": "ingridients",
+            "price": 100,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": "assets/pizza1"
              },
         {
             "id": 2,
-            "name": "Arduino UNO",
-            "description": "Brand new and high quality.",
-            "price": 180,
-            "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "name": "Pizza2",
+            "description": "ingridients",
+            "price": 100,
+            "author_id": 1,
+            "photo_url": "assets/pizza2"
              },
         {
             "id": 3,
-            "name": "ESP8266 5V",
-            "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+            "name": "Pizza3",
+            "description": "ingridients",
+            "price": 100,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
-              },
+            "photo_url": "assets/pizza3"
+             },
         {
             "id": 4,
-            "name": "RGB",
-            "description": "Can make color party.",
-            "price": 92,
-            "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            "name": "Pizza4",
+            "description": "ingridients",
+            "price": 100,
+            "author_id": 3,
+            "photo_url": "assets/pizza4"
              },
         {
             "id": 5,
-            "name": "Resistor 10k Ohm",
-            "description": "Can resist the voltage. Super cool.",
-            "price": 180,
-            "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+            "name": "Pizza5",
+            "description": "ingridients",
+            "price": 100,
+            "author_id": 1,
+            "photo_url": "assets/pizza5"
              },
         {
             "id": 6,
-            "name": "7-Segment Display",
-             "description": "Epic.",
-            "price": 300,
+            "name": "Pizza6",
+            "description": "ingridients",
+            "price": 100,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
-            }
+            "photo_url": "assets/pizza6"
+             },
+        {
+            "id": 7,
+            "name": "Pizza7",
+            "description": "ingridients",
+            "price": 100,
+            "author_id": 3,
+            "photo_url": "assets/pizza7"
+             },
+        {
+            "id": 8,
+            "name": "Pizza8",
+            "description": "ingridients",
+            "price": 100,
+            "author_id": 1,
+            "photo_url": "assets/pizza8"
+             }
     ]
 }
